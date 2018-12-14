@@ -15,6 +15,7 @@ class Student
     var grade: Double
     var presence: Bool
     //var personNumber: Int
+    //var middlename: String
     
     init(fName: String, lName: String, studentGrade: Double, studentPresence: Bool)
     {
